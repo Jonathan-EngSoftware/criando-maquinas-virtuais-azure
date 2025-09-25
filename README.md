@@ -15,6 +15,13 @@ A escalabilidade também é facilitade. Se um software começa a ter muitos aces
 - PaaS (Plataforma como Serviço): Que facilita o gerenciamento de bancos de dados, por exemplo.
 
 Também é interessante o suporte a sistemas híbridos. Isso quer dizer que uma empresa não precisa abandonar seus servidores locais para começar a usar a nuvem. É possível integrar os dois ambientes e aproveitar o melhor de cada um, sem precisar refazer um projeto do zero.
-
-A disponibilidade e a recuperação de desastres. A Microsoft tem data centers espalhados pelo mundo todo, então, se um deles falhar, outro assume e o seu sistema continua no ar, com garantias que podem chegar a 99.999%. E com o Azure Backup, seus dados ficam protegidos e podem ser recuperados caso algum desastre aconteça.
+Atraves do SLA, um acordo de compromentimento da Microsoft com o cliente, garantindo um nível de disponibilidade e desempenho de um serviço , que vai de 99% até 99.999%
+Uma pequena tabela para mostrar o desempenho em percentual e hora:
+- 99%: Permite até cerca 7 horas de inatividade por mês;
+- 99.9%: Permite até 43 cerca minutos de inatividade por mês;
+- 99.99%: Permite até cerca 21 minutos de inatividade por mês;
+- 99.999%: Permite até cerca de 4 minutos de inatividade por mês;
+A Azure atende quaisquer que seja a sua necessidade. A vantagem disso, é que, caso você não tenha tanta urgência do sistema funcionando sem qualquer travamento, ela lhe oferece um pacote eficiente, e com o preço melhor.
+  
+A disponibilidade e a recuperação de desastres. A Microsoft tem data centers espalhados pelo mundo todo, então, se um deles falhar, outro assume e o seu sistema continua no ar. E com o Azure Backup, seus dados ficam protegidos e podem ser recuperados caso algum desastre aconteça.
 
