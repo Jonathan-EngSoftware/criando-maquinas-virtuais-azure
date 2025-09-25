@@ -1,4 +1,4 @@
-## criando-maquinas-virtuais-azure
+ ## criando-maquinas-virtuais-azure
 Resumo do meu conhecimento em Azure, com base no curso da DIO
 
 No curso da DIO, tive meu primeiro contato com o Microsoft Azure e descobri que é uma plataforma de computação em nuvem muito completa, com serviços que atendem desde pequenas empresas até as gigantes do mercado.
@@ -10,7 +10,7 @@ A segurança que o Azure oferece. A Microsoft investe pesado nessa área, o que 
 
 A escalabilidade também é facilitade. Se um software começa a ter muitos acessos, não é preciso correr para comprar mais máquinas e correr o risco de estourar o orçamento. No Azure, o crescimento é horizontal, ou seja, basta adicionar mais servidores na nuvem de forma flexível.
 
-#Entendi que o Azure oferece diferentes tipos de serviços, como:
+# Entendi que o Azure oferece diferentes tipos de serviços, como:
 - IaaS (Infraestrutura como Serviço): Onde pode-se criar máquinas virtuais próprias e redes.
 - PaaS (Plataforma como Serviço): Que facilita o gerenciamento de bancos de dados, por exemplo.
 
